@@ -1,8 +1,8 @@
 <template>
   <div id="app">
 
-    <h1>Welcome to Psitron world</h1>
-	<h2>Upload your data to get Gen Ai predictions</h2>
+    <h1>Welcome to Vikash MLOPs world</h1>
+	<h2>Upload your data to get Gen Ai predictions MLOPs </h2>
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
